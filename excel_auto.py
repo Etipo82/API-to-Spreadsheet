@@ -6,7 +6,7 @@ import openpyxl
 import subprocess
 import xlsxwriter
 
-URL = 'https://www.balldontlie.io'
+URL = 'api website'
 API_PLAYERS = '/api/v1/players/?search='
 API_AVERAGES = '/api/v1/season_averages/?season='
 stat_end = '&player_ids[]='
